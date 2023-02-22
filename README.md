@@ -1,3 +1,2 @@
 # Python Password Generator
-
-- https://store.shawnengmann.com/store/py-pass-gen
+- A simple python password generator I made for a class
